@@ -1,0 +1,35 @@
+name: lightweightvocabularypro
+description: Simple and minimalist English vocabulary + dictionary. No Ads.
+
+version: 0.9.1
+
+environment:
+  sdk: ">=2.2.2 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  path_provider: ^1.4.0
+  shared_preferences: ^0.5.4
+  dynamic_theme: ^1.0.1
+  url_launcher: ^5.2.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/icon.png
+
+  fonts:
+    - family: Raleway-Light
+      fonts:
+        - asset: assets/Raleway-Light.ttf
+    - family: Raleway-Medium
+      fonts:
+        - asset: assets/Raleway-Medium.ttf
