@@ -6,4 +6,4 @@ A minimalist vocabulary/dictionary that allows quick english queries and offline
 
 ### Built with Flutter <3
 
-If you love my app, please download it, give me a feedback and buy the ad-free version. Or just compile it from here. Thanks!!
+If you love my app, please download it, give me a feedback or buy the ad-free version. Or just compile it from here. Thanks!!
